@@ -1,4 +1,4 @@
-
+window.dataLayer = window.dataLayer || [];
 dataLayer.push({
   'ecommerce': {
     'detail': {
